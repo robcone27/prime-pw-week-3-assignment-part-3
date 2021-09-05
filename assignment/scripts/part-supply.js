@@ -42,7 +42,8 @@ if (supplyChanges[i]>0){
 // STRETCH GOALS
 console.log('---  Stretch Goals  ---');
 // 7. Rewrite the `for` loop from #6 as a `for of` loop.
-console.log('7. Showing supplyChanges with "for of" loop');
+
+
 
 // 8. Rewrite the `for` loop from #6 as a `while` loop.
 console.log('8. Showing supplyChanges with "while" loop');
